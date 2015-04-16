@@ -11,7 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch1-1unique_char.cpp" />
+    <ClCompile Include="ch1-1-unique_char.cpp" />
+    <ClCompile Include="ch1-2-reverseStr.cpp" />
     <ClCompile Include="ch1-hashMap.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

@@ -48,11 +48,11 @@ bool isUniqueCharset2(string &str)
 {
     return true;
 }
-int main()
+int main_1_1()
 {
     cout << isUniqueCharset(string("qwertyuiop[]asdfghjk")) << "\n";
     cout << isUniqueCharset(string("aabb")) << "\n";
     
-    getchar();
+    //getchar();
     return 0;
 }
