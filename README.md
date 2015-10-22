@@ -3,4 +3,6 @@
 
 - CTCI
 - LEETOJ
-- C++11/14
+- Codility
+
+-- C++ with gtest @ 10/19/2015
